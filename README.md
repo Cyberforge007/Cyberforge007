@@ -19,6 +19,12 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
+
+<h2> Certifications</h2>
+
+  - [Security +](https://www.credly.com/badges/f7eb7b91-da94-4980-9188-fab379e864e8/public_url)
+   - [Project +](https://www.credly.com/badges/46222332-e023-461e-9975-9745631e68b1/public_url)
+
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
