@@ -31,7 +31,7 @@
 [<img align="left" alt="Samuel Martin| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [twitter]: https://twitter.com/Sjmartin007
-[YouTube]: www.youtube.com/@Cyberforge007-vf5x
+[YouTube]: https://www.youtube.com/@Cyberforge007-vf5x
 [instagram]: https://www.instagram.com
 [linkedin]: https://linkedin.com/in/samuel-martin-b6981013
 
