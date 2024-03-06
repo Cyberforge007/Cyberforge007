@@ -32,12 +32,11 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/Sjmartin007
-[youtube]: https://www.youtube.com/
+[YouTube]: https://www.youtube.com/
 [instagram]: https://www.instagram.com
 [linkedin]: https://linkedin.com/in/samuel-martin-b6981013
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
