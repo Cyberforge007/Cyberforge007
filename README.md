@@ -4,7 +4,7 @@
 <h2>🧑‍💻🤓 Cybersecurity Development Projects:</h2>
 
 - <b>Active Directory Lab </b>
-  - [Praciting Active Directory][Active Directory](https://github.com/cyberforge007/4chan-Image-Analysis-Middleware-C964)
+  - [Praciting Active Directory][Active Directory Lab Home](https://github.com/cyberforge007/4chan-Image-Analysis-Middleware-C964)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/cyberforge007/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
