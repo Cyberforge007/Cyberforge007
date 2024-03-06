@@ -10,7 +10,7 @@
   - [Active Directory Bulk User Creation]
   - [FIM (File Integrity Monitor)])
 - <b>The GRC Analyst Master Class</b>
-  - [Compliance and Audit Work (Audit Lab)]
+  - [Compliance and Audit Work (Audit Lab)(https://github.com/Cyberforge007/Exploring-GRC-Analyst-/blob/main)
   - [Raising Awareness (Awareness Lab)]
   - [Assessing Risk (Risk Assessments]
 
