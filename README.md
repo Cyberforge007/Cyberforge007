@@ -6,14 +6,13 @@
 - <b>Active Directory Lab </b>
   - [Praciting Active Directory] [Active Directory Lab Home](https://github.com/Cyberforge007/Active-Director-Lab-Home/tree/main)
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]
+  - [Active Directory Bulk User Creation]
+  - [FIM (File Integrity Monitor)])
 - <b>The GRC Analyst Master Class</b>
-  - [Compliance and Audit Work (Audit Lab)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Raising Awareness (Awareness Lab)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Assessing Risk (Risk Assessments](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Compliance and Audit Work (Audit Lab)]
+  - [Raising Awareness (Awareness Lab)]
+  - [Assessing Risk (Risk Assessments]
 
 <h2> Certifications</h2>
 
