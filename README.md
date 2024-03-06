@@ -3,14 +3,14 @@
 
 <h2>🧑‍💻🤓 Cybersecurity Development Projects:</h2>
 
-- <b>Active Directory Lab </b>
-  - [Praciting Active Directory] [Active Directory Lab Home](https://github.com/Cyberforge007/Active-Director-Lab-Home/tree/main)
+- <b>Active Directory Lab </b> [Active Directory Lab Home](https://github.com/Cyberforge007/Active-Director-Lab-Home/tree/main)
+  - [Praciting Active Directory] 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]
   - [Active Directory Bulk User Creation]
   - [FIM (File Integrity Monitor)])
-- <b>The GRC Analyst Master Class</b>
-  - [Compliance and Audit Work (Audit Lab)(https://github.com/Cyberforge007/Exploring-GRC-Analyst-/blob/main)
+- <b>The GRC Analyst Master Class</b> [GRC LAB Home](https://github.com/Cyberforge007/Exploring-GRC-Analyst-/blob/main)
+  - [Compliance and Audit Work (Audit Lab)
   - [Raising Awareness (Awareness Lab)]
   - [Assessing Risk (Risk Assessments]
 
