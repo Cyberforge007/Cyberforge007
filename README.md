@@ -24,6 +24,7 @@
 
   - [Security +](https://www.credly.com/badges/f7eb7b91-da94-4980-9188-fab379e864e8/public_url)
   - [Project +](https://www.credly.com/badges/46222332-e023-461e-9975-9745631e68b1/public_url)
+  - [CYSA +](https://www.credly.com/badges/145e0ea2-8f77-4ade-a55c-3a95a83eab79/public_url)
 
 <h2>📺 Popular YouTube Videos</h2>
 
