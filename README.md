@@ -1,6 +1,8 @@
 # Cyberforge007
 <h1>Hi, I'm Sam! ALL Projects are in their starting points. Updates will follow!<br/><a href="https://github.com/Cyberforge007">Archiectural Systems designer</a>, <a href="https://www.linkedin.com/in/samuel-martin-b6981013/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
+#### Technical Skills: Python
+
 <h2>🧑‍💻🤓 Cybersecurity Development Projects:</h2>
 
 - <b>Active Directory Lab </b> [Active Directory Lab Home](https://github.com/Cyberforge007/Active-Director-Lab-Home/tree/main)
@@ -54,7 +56,7 @@ Here are some ideas to get you started:
 
 
 
-# Cyberforge007
+
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
