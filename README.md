@@ -1,9 +1,9 @@
 # Cyberforge007
-<h1>Hi, I'm Sam! ALL Projects are in their starting points. Updates will follow!<br/><a href="https://github.com/Cyberforge007">Archiectural Systems designer</a>, <a href="https://www.linkedin.com/in/samuel-martin-b6981013/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h2>Hi, I'm Sam! ALL Projects are in their starting points. Updates will follow!<br/><a href="https://github.com/Cyberforge007">Archiectural Systems designer</a>, <a href="https://www.linkedin.com/in/samuel-martin-b6981013/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h2>
 
 #### Technical Skills: Python
 
-<h2>🧑‍💻🤓 Cybersecurity Development Projects:</h2>
+<h3>🧑‍💻🤓 Cybersecurity Development Projects:</h3>
 
 - <b>Active Directory Lab </b> [Active Directory Lab Home](https://github.com/Cyberforge007/Active-Director-Lab-Home/tree/main)
   - [Praciting Active Directory] 
@@ -16,7 +16,7 @@
   - [Raising Awareness (Awareness Lab)]
   - [Assessing Risk (Risk Assessments]
 
-<h2> Certifications</h2>
+<h3> Certifications</h3>
 
   - [Security +](https://www.credly.com/badges/f7eb7b91-da94-4980-9188-fab379e864e8/public_url)
   - [Project +](https://www.credly.com/badges/46222332-e023-461e-9975-9745631e68b1/public_url)
