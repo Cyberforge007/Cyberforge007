@@ -3,6 +3,7 @@
 
 </h3> Technical Skills: Python</h3>
 
+
 </h3>🧑‍💻🤓 Cybersecurity Development Projects:</h3>
 
 - <b>Python</b>
