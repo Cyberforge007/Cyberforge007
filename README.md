@@ -4,23 +4,30 @@
 
 🧑‍💻🤓 Cybersecurity Development Projects:
 
-- <h3>Python(https://github.com/Cyberforge007/Python.git)</h3>
+- <h3>Python</h3>
+
+  [Python Home](https://github.com/Cyberforge007/Python.git)
+  
     - [Python Functions and Libraries for cybersecurity]
     - [Log File Analysis]
-    
- - <h4>The GRC Analyst Master Class</h4> [GRC LAB Home](https://github.com/Cyberforge007/Exploring-GRC-Analyst-/blob/main)
+
+ - <h4>The GRC Analyst Master Class</h4>
+ 
+   [GRC LAB Home](https://github.com/Cyberforge007/Exploring-GRC-Analyst-/blob/main)
+  
     - [Compliance and Audit Work (Audit Lab)]
     - [Raising Awareness (Awareness Lab)]
     - [Assessing Risk (Risk Assessments)]
     - [Case Study (GRC Case studies)]
     
-- <h4>Exploring General AI </h4> [Active Directory Lab Home](https://github.com/Cyberforge007/Active-Director-Lab-Home/tree/main)
-    - [Compliance and Audit Work (Audit Lab)
-    - [Raising Awareness (Awareness Lab)]
-    - [Assessing Risk (Risk Assessments)]
-    - [Case Study (GRC Case studies)]
-  
-<h4> Certifications</h4>
+- <h4>Exploring General AI </h4> 
+
+  [General AI](https://github.com/Cyberforge007/Active-Director-Lab-Home/tree/main)
+
+    - [AI Awareness]
+    - [AI Implementation]
+   
+  <h4> Certifications</h4>
 
   - [Security +](https://www.credly.com/badges/f7eb7b91-da94-4980-9188-fab379e864e8/public_url)
   - [Project +](https://www.credly.com/badges/46222332-e023-461e-9975-9745631e68b1/public_url)
