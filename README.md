@@ -4,8 +4,8 @@
 
 🧑‍💻🤓 Cybersecurity Development Projects:
 
-- <h3>Python</h3>
-    - [Python Functions and Libraries for cybersecurity](https://github.com/Cyberforge007/Python.git)
+- <h3>Python(https://github.com/Cyberforge007/Python.git)</h3>
+    - [Python Functions and Libraries for cybersecurity]
     - [Log File Analysis]
     
  - <h4>The GRC Analyst Master Class</h4> [GRC LAB Home](https://github.com/Cyberforge007/Exploring-GRC-Analyst-/blob/main)
