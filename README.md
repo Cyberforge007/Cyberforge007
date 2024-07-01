@@ -105,9 +105,6 @@ I'm an indie full-stack developer and content creator building my version of the
 
 #
 
-### 📊 Stats
-
-
 #
 <!--
 <details>
