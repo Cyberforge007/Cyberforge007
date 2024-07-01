@@ -8,11 +8,11 @@
   - [Python Functions and Libraries for cybersecurity]
   - [Log File Analysis]
  - <h4>The GRC Analyst Master Class</h4> [GRC LAB Home](https://github.com/Cyberforge007/Exploring-GRC-Analyst-/blob/main)
-  - [Compliance and Audit Work (Audit Lab)
+  - [Compliance and Audit Work (Audit Lab)]
   - [Raising Awareness (Awareness Lab)]
   - [Assessing Risk (Risk Assessments)]
   - [Case Study (GRC Case studies)]
-- <h4>Exploring Genreal AI </h4> [Active Directory Lab Home](https://github.com/Cyberforge007/Active-Director-Lab-Home/tree/main)
+- <h4>Exploring General AI </h4> [Active Directory Lab Home](https://github.com/Cyberforge007/Active-Director-Lab-Home/tree/main)
   - [Compliance and Audit Work (Audit Lab)
   - [Raising Awareness (Awareness Lab)]
   - [Assessing Risk (Risk Assessments)]
