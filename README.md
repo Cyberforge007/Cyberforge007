@@ -1,11 +1,11 @@
 # Cyberforge007
-<!--<h4>Hi, I'm Sam!  Welcome to my Lab where all the Security adventures start.<br/><a> <a href="https://github.com/Cyberforge007/Architectural-systems.git">Python</a>, <a href="https://www.linkedin.com/in/samuel-martin-b6981013/">Cybersecurity Professional</a>, <a href="https://www.youtube.com//@Cyberforge007">YouTuber</a><h4>-->
+<!--<h4>Hi, I'm Sam!  Welcome to my Lab where all the Security adventures start.<br/><a> <a href="https://github.com/Cyberforge007/python.git">Python</a>, <a href="https://www.linkedin.com/in/samuel-martin-b6981013/">Cybersecurity Professional</a>, <a href="https://www.youtube.com//@Cyberforge007">YouTuber</a><h4>-->
 
 
 🧑‍💻🤓 Cybersecurity Development Projects:
 
 - <h4>Python</h4>
-    - [Python Functions and Libraries for cybersecurity]
+    - [Python Functions and Libraries for cybersecurity](https://github.com/Cyberforge007/python-/blob/main)
     - [Log File Analysis]
  - <h4>The GRC Analyst Master Class</h4> [GRC LAB Home](https://github.com/Cyberforge007/Exploring-GRC-Analyst-/blob/main)
     - [Compliance and Audit Work (Audit Lab)]
