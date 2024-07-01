@@ -21,7 +21,7 @@
 <h4> Certifications</h4>
 
   - <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="(https://www.credly.com/badges/f7eb7b91-da94-4980-9188-fab379e864e8/public_url)"/>[Security +] 
-  - [Project +](https://www.credly.com/badges/46222332-e023-461e-9975-9745631e68b1/public_url)
+  - [Project +](https://www.credly.com/badges/46222332-e023-461e-9975-9745631e68b1/public_url)https://images.credly.com/size/340x340/images/be6dfc3d-f8a1-4c18-8b16-751600ef61c8/CompTIA_Project_2B.png
   - [CYSA +](https://www.credly.com/badges/145e0ea2-8f77-4ade-a55c-3a95a83eab79/public_url)
 
   
