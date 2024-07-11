@@ -23,14 +23,14 @@
 
 - <h4>Exploring Lunix Commands </h4> 
 
-  [General AI](https://github.com/Cyberforge007/Active-Director-Lab-Home/tree/main)
+  [General AI](https://github.com/Cyberforge007/Lunix.git)
     
      - [Lunix Ubuntu OS]
      - [Lunix Command Line]
    
 - <h4>Exploring General AI </h4> 
 
-  [General AI](https://github.com/Cyberforge007/Active-Director-Lab-Home/tree/main)
+  [General AI](https://github.com/Cyberforge007/General-AI.git)
 
     - [AI Awareness]
     - [AI Implementation]
