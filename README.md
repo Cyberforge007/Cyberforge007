@@ -19,7 +19,15 @@
     - [Raising Awareness (Awareness Lab)]
     - [Assessing Risk (Risk Assessments)]
     - [Case Study (GRC Case studies)]
+  
+
+- <h4>Exploring Lunix Commands </h4> 
+
+  [General AI](https://github.com/Cyberforge007/Active-Director-Lab-Home/tree/main)
     
+     - [Lunix Ubuntu OS]
+     - [Lunix Command Line]
+   
 - <h4>Exploring General AI </h4> 
 
   [General AI](https://github.com/Cyberforge007/Active-Director-Lab-Home/tree/main)
