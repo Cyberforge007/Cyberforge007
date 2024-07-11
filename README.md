@@ -23,7 +23,7 @@
 
 - <h4>Exploring Lunix Commands </h4> 
 
-  [General AI](https://github.com/Cyberforge007/Lunix.git)
+  [Lunix](https://github.com/Cyberforge007/Lunix.git)
     
      - [Lunix Ubuntu OS]
      - [Lunix Command Line]
